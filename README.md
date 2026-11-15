@@ -4,7 +4,7 @@
 
 ## Try it
 
-Visit[ https://adanikamal.github.io/SignalTrace/](https://signal-trace-khaki.vercel.app/).
+Visit [ https://adanikamal.github.io/SignalTrace/](https://signal-trace-khaki.vercel.app/).
 
 ## What it does
 
@@ -15,10 +15,6 @@ Visit[ https://adanikamal.github.io/SignalTrace/](https://signal-trace-khaki.ver
 - Supports copying, downloading as TXT, and printing or saving as PDF.
 
 No npm, Node.js, backend, database, or build process is needed. The app is contained in `index.html`.
-
-## Publish with GitHub Pages
-
-Go to **Settings → Pages → Build and deployment**, select **Deploy from a branch**, then choose **main** and **/(root)** and save.
 
 ## Measurement limitations
 
