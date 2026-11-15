@@ -4,7 +4,7 @@
 
 ## Try it
 
-After GitHub Pages is enabled, visit https://adanikamal.github.io/SignalTrace/.
+Visit[ https://adanikamal.github.io/SignalTrace/](https://signal-trace-khaki.vercel.app/).
 
 ## What it does
 
